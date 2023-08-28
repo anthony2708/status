@@ -27,17 +27,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.builetuananh.name.vn
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/favicon.png
+  logoUrl: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/ET_Logo.png
   favicon: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/favicon.png
-  name: Status
+  name: Status Check
   introTitle: "**Status**"
-  introMessage: A system for monitoring websites and APIs, powered by [Upptime](https://upptime.js.org).
+  introMessage: Hệ thống giám sát tên miền, dựa trên [Upptime](https://upptime.js.org).
   navbar:
-    - title: Status
+    - title: Trạng thái
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Home
+    - title: Trang chủ
       href: https://www.builetuananh.name.vn
   theme: ocean
 
@@ -58,8 +58,8 @@ i18n:
   pastIncidents: Sự cố đã xảy ra
   pastIncidentsResolved: Sự cố khắc phục trong $MINUTES phút với $POSTS cập nhật
   liveStatus: Trạng thái hiện tại
-  overallUptime: "Trạng thái chung: $UPTIME"
-  overallUptimeTitle: Trạng thái chung
+  overallUptime: "Tỷ lệ phản hồi thành công: $UPTIME"
+  overallUptimeTitle: Trạng thái phản hồi thành công
   averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
   averageResponseTimeTitle: Phản hồi trung bình
   sevelDayResponseTime: Thời gian phản hồi 7 ngày gần nhất
