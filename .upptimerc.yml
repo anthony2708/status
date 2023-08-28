@@ -1,31 +1,108 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: anthony2708 # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Website
+    url: https://www.builetuananh.name.vn
+  - name: 2048 Website
+    url: https://2048.builetuananh.name.vn
+  - name: HCMUS Portal
+    url: https://portal.hcmus.edu.vn
+  - name: HCMUS Portal - 1st Node
+    url: https://portal1.hcmus.edu.vn
+  - name: HCMUS Portal - 2nd Node
+    url: https://portal2.hcmus.edu.vn
+  - name: HCMUS Portal - 3rd Node
+    url: https://portal3.hcmus.edu.vn
+  - name: HCMUS Portal - 4th Node
+    url: https://portal4.hcmus.edu.vn
+  - name: HCMUS Portal - 5th Node
+    url: https://portal5.hcmus.edu.vn
+  - name: HCMUS Portal - 6th Node
+    url: https://portal6.hcmus.edu.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.builetuananh.name.vn
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  logoUrl: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/favicon.png
+  favicon: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/favicon.png
+  name: Status
+  introTitle: "**Upptime** "
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://www.builetuananh.name.vn
+  theme: ocean
+
+i18n:
+  activeIncidents: Sự cố hiện thời
+  allSystemsOperational: Hệ thống hoạt động bình thường
+  incidentReport: "Báo cáo Sự cố số #$NUMBER →"
+  activeIncidentSummary: Sự cố ngày $DATE với $POSTS cập nhật
+  incidentTitle: Chi tiết Sự cố số $NUMBER
+  incidentDetails: Chi tiết sự cố
+  incidentFixed: Đã khắc phục
+  incidentOngoing: Đang diễn ra
+  incidentOpenedAt: Sự cố mở vào
+  incidentClosedAt: Sự cố đóng vào
+  incidentViewOnGitHub: Xem và cập nhật trên GitHub
+  incidentCommentSummary: Cập nhật ngày $DATE bởi $AUTHOR
+  incidentBack: ← Trở về danh sách sự cố
+  pastIncidents: Sự cố đã xảy ra
+  pastIncidentsResolved: Sự cố khắc phục trong $MINUTES phút với $POSTS cập nhật
+  liveStatus: Trạng thái hiện tại
+  overallUptime: "Trạng thái chung: $UPTIME"
+  overallUptimeTitle: Trạng thái chung
+  averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
+  averageResponseTimeTitle: Phản hồi trung bình
+  sevelDayResponseTime: Thời gian phản hồi 7 ngày gần nhất
+  responseTimeMs: Thời gian phản hồi (ms)
+  up: Hoạt động
+  down: Không hoạt động
+  degraded: Gián đoạn
+  ms: ms
+  loading: Đang tải...
+  navGitHub: GitHub
+  navHome: Trang chủ
+  footer: Dự án [mã nguồn mở]($REPO), bản quyền thuộc về [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: 429 - Vượt quá giới hạn
+  rateLimitExceededIntro: Hệ thống vượt quá giới hạn truy cập. Vui lòng quay lại sau.
+  rateLimitExceededWhatDoesErrorMean: Lỗi này có ý nghĩa gì?
+  rateLimitExceededErrorMeaning: Hệ thống sử dụng API để kiểm tra, nếu bạn không có token, bạn chỉ có thể truy cập 60 lần mỗi giờ.
+  rateLimitExceededErrorHowCanFix: Làm thế nào để khắc phục?
+  rateLimitExceededErrorFix: Vui lòng đợi trong vài phút, sau đó tải lại trang. Nếu bạn muốn sử dụng hệ thống này, bạn có thể tạo token và sử dụng nó để truy cập API.
+  rateLimitExceededGeneratePAT: Tìm hiểu cách tạo token
+  rateLimitExceededHasSet: Token đã được thiết lập
+  rateLimitExceededRemoveToken: Xóa token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Sao chép và dán token vào đây
+  rateLimitExceededSaveToken: Lưu token
+  errorTitle: Đã xảy ra lỗi
+  errorIntro: Có lỗi xảy ra khi tải trang này. Đây có thể là do lỗi mạng hoặc lỗi máy chủ.
+  errorText: Bạn có thể thử tải lại trang hoặc trở về trang chủ.
+  errorHome: Trở về trang chủ
+  pastScheduledMaintenance: Lịch bảo trì trước đây
+  scheduledMaintenance: Lịch bảo trì sắp tới
+  scheduledMaintenanceSummaryStarted: Đã bắt đầu vào $DATE trong $DURATION phút
+  scheduledMaintenanceSummaryStarts: Bắt đầu vào $DATE trong $DURATION phút
+  startedAt: Đã bắt đầu vào
+  startsAt: Bắt đầu vào
+  duration: Thời lượng
+  durationMin: $DURATION phút
+  incidentCompleted: Hoàn thành
+  incidentScheduled: Lên lịch
+  duration24H: 24h
+  duration7D: 7 ngày
+  duration30D: 30 ngày
+  duration1Y: 1 năm
+  durationAll: Tất cả
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
