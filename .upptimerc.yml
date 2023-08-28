@@ -71,7 +71,7 @@ i18n:
   loading: Đang tải...
   navGitHub: GitHub
   navHome: Trang chủ
-  footer: Dự án [mã nguồn mở]($REPO), bản quyền thuộc về [Upptime](https://upptime.js.org)
+  footer: Dự án [mã nguồn mở]($REPO), bản quyền thuộc về Anthony Bùi Lê Tuấn Anh và [Upptime](https://upptime.js.org).
   rateLimitExceededTitle: 429 - Vượt quá giới hạn
   rateLimitExceededIntro: Hệ thống vượt quá giới hạn truy cập. Vui lòng quay lại sau.
   rateLimitExceededWhatDoesErrorMean: Lỗi này có ý nghĩa gì?
