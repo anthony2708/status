@@ -4,19 +4,19 @@
     "url": "https://www.builetuananh.name.vn",
     "icon": "https://icons.duckduckgo.com/ip3/www.builetuananh.name.vn.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 698,
-    "timeDay": 966,
-    "timeWeek": 688,
-    "timeMonth": 698,
-    "timeYear": 698,
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
+    "time": 759,
+    "timeDay": 1142,
+    "timeWeek": 778,
+    "timeMonth": 759,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-09-04": 24
+      "2023-09-04": 80
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/2048.builetuananh.name.vn.ico",
     "slug": "2048-website",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.23%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 671,
     "timeDay": 553,
     "timeWeek": 634,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2023-09-04": 23
+      "2023-09-04": 80
     }
   },
   {
