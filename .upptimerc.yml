@@ -53,15 +53,15 @@ i18n:
   incidentOpenedAt: Sự cố mở vào
   incidentClosedAt: Sự cố đóng vào
   incidentViewOnGitHub: Xem và cập nhật trên GitHub
-  incidentCommentSummary: Cập nhật ngày $DATE bởi $AUTHOR
+  incidentCommentSummary: Cập nhật lúc $DATE bởi $AUTHOR
   incidentBack: ← Trở về danh sách sự cố
   pastIncidents: Sự cố đã xảy ra
   pastIncidentsResolved: Sự cố khắc phục trong $MINUTES phút với $POSTS cập nhật
   liveStatus: Trạng thái hiện tại
   overallUptime: "Tỷ lệ phản hồi thành công: $UPTIME"
-  overallUptimeTitle: Trạng thái phản hồi thành công
+  overallUptimeTitle: Tỷ lệ phản hồi thành công
   averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
-  averageResponseTimeTitle: Phản hồi trung bình
+  averageResponseTimeTitle: Thời gian phản hồi trung bình
   sevelDayResponseTime: Thời gian phản hồi 7 ngày gần nhất
   responseTimeMs: Thời gian phản hồi (ms)
   up: Hoạt động
