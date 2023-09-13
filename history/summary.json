@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/2048.builetuananh.name.vn.ico",
     "slug": "2048-website",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 682,
     "timeDay": 633,
     "timeWeek": 741,
@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.hcmus.edu.vn.ico",
     "slug": "hcmus-portal",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 7042,
     "timeDay": 3574,
     "timeWeek": 5354,
     "timeMonth": 7042,
     "timeYear": 7042,
     "dailyMinutesDown": {
-      "2023-09-12": 7,
       "2023-09-07": 22
     }
   },
@@ -66,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal1.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-1st-node",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2342,
     "timeDay": 1768,
     "timeWeek": 2124,
     "timeMonth": 2342,
     "timeYear": 2342,
-    "dailyMinutesDown": {
-      "2023-09-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HCMUS Portal - 2nd Node",
@@ -86,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-2nd-node",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2289,
     "timeDay": 8734,
     "timeWeek": 2315,
     "timeMonth": 2289,
     "timeYear": 2289,
-    "dailyMinutesDown": {
-      "2023-09-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HCMUS Portal - 3rd Node",
@@ -106,19 +101,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal3.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-3rd-node",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2233,
     "timeDay": 1583,
     "timeWeek": 1217,
     "timeMonth": 2233,
     "timeYear": 2233,
-    "dailyMinutesDown": {
-      "2023-09-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HCMUS Portal - 4th Node",
@@ -126,19 +119,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal4.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-4th-node",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2364,
     "timeDay": 2923,
     "timeWeek": 1660,
     "timeMonth": 2364,
     "timeYear": 2364,
-    "dailyMinutesDown": {
-      "2023-09-12": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HCMUS Portal - 5th Node",
@@ -146,19 +137,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal5.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-5th-node",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2445,
     "timeDay": 3180,
     "timeWeek": 1766,
     "timeMonth": 2445,
     "timeYear": 2445,
-    "dailyMinutesDown": {
-      "2023-09-12": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HCMUS Portal - 6th Node",
