@@ -45,7 +45,7 @@ i18n:
   activeIncidents: Sự cố hiện thời
   allSystemsOperational: Hệ thống hoạt động bình thường
   incidentReport: "Báo cáo Sự cố số #$NUMBER →"
-  activeIncidentSummary: Sự cố ngày $DATE với $POSTS cập nhật
+  activeIncidentSummary: Sự cố lúc $DATE với $POSTS cập nhật
   incidentTitle: Chi tiết Sự cố số $NUMBER
   incidentDetails: Chi tiết sự cố
   incidentFixed: Đã khắc phục
