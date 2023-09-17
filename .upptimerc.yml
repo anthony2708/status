@@ -44,6 +44,9 @@ status-website:
 i18n:
   activeIncidents: Sự cố hiện thời
   allSystemsOperational: Hệ thống hoạt động bình thường
+  degradedPerformance: Hệ thống gián đoạn tạm thời
+  completeOutage: Hệ thống gặp sự cố toàn diện
+  partialOutage: Hệ thống gặp sự cố một phần
   incidentReport: "Báo cáo Sự cố số #$NUMBER →"
   activeIncidentSummary: Sự cố lúc $DATE với $POSTS cập nhật
   incidentTitle: Chi tiết Sự cố số $NUMBER
