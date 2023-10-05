@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/2048.builetuananh.name.vn.ico",
     "slug": "2048-website",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 660,
     "timeDay": 535,
     "timeWeek": 557,
@@ -44,11 +44,11 @@
     "url": "https://portal.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal.hcmus.edu.vn.ico",
     "slug": "hcmus-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.72%",
     "time": 6339,
     "timeDay": 4984,
@@ -56,6 +56,7 @@
     "timeMonth": 5700,
     "timeYear": 6339,
     "dailyMinutesDown": {
+      "2023-10-05": 3,
       "2023-09-20": 17,
       "2023-09-16": 116,
       "2023-09-07": 22
@@ -66,11 +67,11 @@
     "url": "https://portal1.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal1.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-1st-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.76%",
     "time": 2101,
     "timeDay": 2443,
@@ -78,6 +79,7 @@
     "timeMonth": 1970,
     "timeYear": 2101,
     "dailyMinutesDown": {
+      "2023-10-05": 3,
       "2023-09-20": 16,
       "2023-09-16": 116
     }
@@ -87,10 +89,10 @@
     "url": "https://portal2.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal2.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-2nd-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.76%",
     "time": 2234,
@@ -99,6 +101,7 @@
     "timeMonth": 2200,
     "timeYear": 2234,
     "dailyMinutesDown": {
+      "2023-10-05": 2,
       "2023-09-20": 16,
       "2023-09-16": 115
     }
@@ -108,11 +111,11 @@
     "url": "https://portal3.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal3.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-3rd-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.79%",
     "time": 2274,
     "timeDay": 508,
@@ -120,6 +123,7 @@
     "timeMonth": 2073,
     "timeYear": 2274,
     "dailyMinutesDown": {
+      "2023-10-05": 2,
       "2023-09-16": 115
     }
   },
@@ -128,10 +132,10 @@
     "url": "https://portal4.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal4.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-4th-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.79%",
     "time": 2146,
@@ -140,6 +144,7 @@
     "timeMonth": 1888,
     "timeYear": 2146,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-16": 114
     }
   },
@@ -148,10 +153,10 @@
     "url": "https://portal5.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal5.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-5th-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.79%",
     "time": 2064,
@@ -160,6 +165,7 @@
     "timeMonth": 1745,
     "timeYear": 2064,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-16": 114
     }
   },
@@ -168,18 +174,19 @@
     "url": "https://portal6.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal6.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-6th-node",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 2049,
     "timeDay": 1885,
     "timeWeek": 1761,
     "timeMonth": 1818,
     "timeYear": 2049,
     "dailyMinutesDown": {
+      "2023-10-05": 0,
       "2023-09-16": 114
     }
   }
