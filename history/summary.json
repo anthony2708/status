@@ -44,18 +44,19 @@
     "url": "https://portal.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal.hcmus.edu.vn.ico",
     "slug": "hcmus-portal",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.73%",
     "time": 6033,
     "timeDay": 4658,
     "timeWeek": 4448,
     "timeMonth": 5404,
     "timeYear": 6033,
     "dailyMinutesDown": {
+      "2023-10-12": 3,
       "2023-10-08": 17,
       "2023-09-20": 17,
       "2023-09-16": 116,
@@ -67,10 +68,10 @@
     "url": "https://portal1.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal1.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-1st-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.77%",
     "time": 2154,
@@ -79,6 +80,7 @@
     "timeMonth": 2045,
     "timeYear": 2154,
     "dailyMinutesDown": {
+      "2023-10-12": 3,
       "2023-10-08": 16,
       "2023-09-20": 16,
       "2023-09-16": 116
@@ -89,10 +91,10 @@
     "url": "https://portal2.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal2.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-2nd-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.77%",
     "time": 2124,
@@ -101,6 +103,7 @@
     "timeMonth": 2188,
     "timeYear": 2124,
     "dailyMinutesDown": {
+      "2023-10-12": 2,
       "2023-10-08": 16,
       "2023-09-20": 16,
       "2023-09-16": 115
@@ -111,10 +114,10 @@
     "url": "https://portal3.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal3.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-3rd-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.80%",
     "time": 2200,
@@ -123,6 +126,7 @@
     "timeMonth": 2163,
     "timeYear": 2200,
     "dailyMinutesDown": {
+      "2023-10-12": 2,
       "2023-10-08": 15,
       "2023-09-16": 115
     }
@@ -132,10 +136,10 @@
     "url": "https://portal4.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal4.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-4th-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 2088,
@@ -144,6 +148,7 @@
     "timeMonth": 1939,
     "timeYear": 2088,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-09-16": 114
     }
   },
@@ -152,10 +157,10 @@
     "url": "https://portal5.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal5.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-5th-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
     "time": 1998,
@@ -164,6 +169,7 @@
     "timeMonth": 1752,
     "timeYear": 1998,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-09-16": 114
     }
   },
@@ -172,9 +178,9 @@
     "url": "https://portal6.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal6.hcmus.edu.vn.ico",
     "slug": "hcmus-portal-6th-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
@@ -184,6 +190,7 @@
     "timeMonth": 1762,
     "timeYear": 1990,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-09-16": 114
     }
   }
