@@ -5,8 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: Main Website
     url: https://www.builetuananh.name.vn
-  - name: 2048 Website
-    url: https://2048.builetuananh.name.vn
   - name: HCMUS Portal
     url: https://portal.hcmus.edu.vn
   - name: HCMUS Portal - 1st Node
