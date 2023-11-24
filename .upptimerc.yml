@@ -27,8 +27,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.builetuananh.name.vn
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/ET_Logo.png
-  favicon: https://raw.githubusercontent.com/anthony2708/anthony2708/main/client/public/img/favicon/favicon.png
+  logoUrl: https://raw.githubusercontent.com/anthony2708/anthony2708/main/web/portal/public/img/favicon/ET_Logo.png
+  favicon: https://raw.githubusercontent.com/anthony2708/anthony2708/main/web/portal/public/img/favicon/favicon.png
   name: Status Check
   introTitle: "**Status**"
   introMessage: Hệ thống giám sát tên miền, dựa trên [Upptime](https://upptime.js.org).
