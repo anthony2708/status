@@ -46,19 +46,19 @@
     "url": "https://portal.builetuananh.name.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal.builetuananh.name.vn.ico",
     "slug": "services-portal",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2043,
-    "timeDay": 264,
-    "timeWeek": 2043,
-    "timeMonth": 2043,
-    "timeYear": 2043,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1798,
+    "timeDay": 419,
+    "timeWeek": 1798,
+    "timeMonth": 1798,
+    "timeYear": 1798,
     "dailyMinutesDown": {
-      "2023-11-27": 0
+      "2023-11-27": 22
     }
   },
   {
