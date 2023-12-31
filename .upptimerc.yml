@@ -5,19 +5,19 @@ repo: status # The name of this repository
 sites:
   - name: Main Website
     url: https://www.builetuananh.name.vn
-  - name: 2048 Website
-    url: https://2048.builetuananh.name.vn
-  - name: HCMUS Portal - 1st Node
+  - name: Students@VNU-HCMUS
+    url: https://student.hcmus.edu.vn
+  - name: VNU-HCMUS Portal - 1st Node
     url: https://portal1.hcmus.edu.vn
-  - name: HCMUS Portal - 2nd Node
+  - name: VNU-HCMUS Portal - 2nd Node
     url: https://portal2.hcmus.edu.vn
-  - name: HCMUS Portal - 3rd Node
+  - name: VNU-HCMUS Portal - 3rd Node
     url: https://portal3.hcmus.edu.vn
-  - name: HCMUS Portal - 4th Node
+  - name: VNU-HCMUS Portal - 4th Node
     url: https://portal4.hcmus.edu.vn
-  - name: HCMUS Portal - 5th Node
+  - name: VNU-HCMUS Portal - 5th Node
     url: https://portal5.hcmus.edu.vn
-  - name: HCMUS Portal - 6th Node
+  - name: VNU-HCMUS Portal - 6th Node
     url: https://portal6.hcmus.edu.vn
 
 status-website:
