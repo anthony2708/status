@@ -26,18 +26,20 @@
     "url": "https://student.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/student.hcmus.edu.vn.ico",
     "slug": "students-vnu-hcmus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1652,
-    "timeDay": 1634,
-    "timeWeek": 1652,
-    "timeMonth": 1652,
-    "timeYear": 1652,
-    "dailyMinutesDown": {}
+    "time": 1702,
+    "timeDay": 1774,
+    "timeWeek": 1702,
+    "timeMonth": 1702,
+    "timeYear": 1702,
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 1st Node",
