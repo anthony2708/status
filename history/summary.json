@@ -44,107 +44,119 @@
     "url": "https://portal1.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal1.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-1st-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.26%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2684,
     "timeDay": 2678,
     "timeWeek": 2525,
     "timeMonth": 2684,
     "timeYear": 2684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 2nd Node",
     "url": "https://portal2.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal2.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-2nd-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2514,
     "timeDay": 2360,
     "timeWeek": 2542,
     "timeMonth": 2514,
     "timeYear": 2514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 3rd Node",
     "url": "https://portal3.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal3.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-3rd-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2629,
     "timeDay": 1619,
     "timeWeek": 2737,
     "timeMonth": 2629,
     "timeYear": 2629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 4th Node",
     "url": "https://portal4.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal4.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-4th-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2088,
     "timeDay": 1229,
     "timeWeek": 2069,
     "timeMonth": 2088,
     "timeYear": 2088,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 5th Node",
     "url": "https://portal5.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal5.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-5th-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 1841,
     "timeDay": 2642,
     "timeWeek": 1850,
     "timeMonth": 1841,
     "timeYear": 1841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   },
   {
     "name": "VNU-HCMUS Portal - 6th Node",
     "url": "https://portal6.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/portal6.hcmus.edu.vn.ico",
     "slug": "vnu-hcmus-portal-6th-node",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2087,
     "timeDay": 1474,
     "timeWeek": 2135,
     "timeMonth": 2087,
     "timeYear": 2087,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 54
+    }
   }
 ]
