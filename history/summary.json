@@ -26,19 +26,19 @@
     "url": "https://student.hcmus.edu.vn",
     "icon": "https://icons.duckduckgo.com/ip3/student.hcmus.edu.vn.ico",
     "slug": "students-vnu-hcmus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1520,
-    "timeDay": 975,
-    "timeWeek": 1198,
-    "timeMonth": 1520,
-    "timeYear": 1520,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1540,
+    "timeDay": 1309,
+    "timeWeek": 1285,
+    "timeMonth": 1540,
+    "timeYear": 1540,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 32
     }
   },
   {
