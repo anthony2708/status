@@ -1,7 +1,7 @@
 url: https://portal4.hcmus.edu.vn
-status: up
-code: 200
-responseTime: 2059
-lastUpdated: 2024-07-19T23:16:19.467Z
+status: down
+code: 503
+responseTime: 6667
+lastUpdated: 2024-07-20T17:28:52.619Z
 startTime: 2023-12-31T01:07:27.136Z
 generator: Upptime <https://github.com/upptime/upptime>
