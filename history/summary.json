@@ -31,10 +31,10 @@
     "url": "https://90days.builetuananh.name.vn",
     "icon": "https://icons.duckduckgo.com/ip3/90days.builetuananh.name.vn.ico",
     "slug": "90-dev-ops-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 692,
@@ -43,6 +43,7 @@
     "timeMonth": 595,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2024-07-24": 1,
       "2024-07-10": 18
     }
   },
@@ -53,7 +54,7 @@
     "slug": "students-vnu-hcmus",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "63.55%",
+    "uptimeDay": "88.14%",
     "uptimeWeek": "94.79%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.34%",
