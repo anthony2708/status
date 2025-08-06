@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 978,
+    "time": 979,
     "timeDay": 824,
     "timeWeek": 864,
     "timeMonth": 1418,
@@ -21,29 +21,6 @@
       "2024-12-13": 26,
       "2024-11-12": 16,
       "2024-09-27": 22
-    }
-  },
-  {
-    "name": "Service Portal",
-    "url": "https://portal.builetuananh.name.vn",
-    "icon": "https://icons.duckduckgo.com/ip3/portal.builetuananh.name.vn.ico",
-    "slug": "service-portal",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "48.07%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "99.77%",
-    "time": 1063,
-    "timeDay": 0,
-    "timeWeek": 1324,
-    "timeMonth": 1420,
-    "timeYear": 1063,
-    "dailyMinutesDown": {
-      "2025-08-06": 118,
-      "2025-08-05": 630,
-      "2025-07-23": 18,
-      "2025-07-21": 22
     }
   }
 ]
