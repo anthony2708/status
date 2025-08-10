@@ -91,7 +91,6 @@ i18n:
   down: "🟥 Không hoạt động"
   responseTimeGraphAlt: "Đồ thị thời gian phản hồi"
   ms: "ms"
-  responseTime: "Thời gian phản hồi"
   responseTimeDay: "Thời gian phản hồi (24 giờ)"
   responseTimeWeek: "Thời gian phản hồi (1 tuần)"
   responseTimeMonth: "Thời gian phản hồi (1 tháng)"
