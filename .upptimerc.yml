@@ -27,10 +27,6 @@ status-website:
 
 i18n:
   activeIncidents: Sự cố hiện thời
-  allSystemsOperational: Hệ thống hoạt động bình thường
-  degradedPerformance: Hệ thống gián đoạn tạm thời
-  completeOutage: Hệ thống gặp sự cố toàn diện
-  partialOutage: Hệ thống gặp sự cố một phần
   incidentReport: "Báo cáo Sự cố số #$NUMBER →"
   activeIncidentSummary: Sự cố lúc $DATE với $POSTS cập nhật
   incidentTitle: Chi tiết Sự cố số $NUMBER
@@ -44,17 +40,12 @@ i18n:
   incidentBack: ← Trở về danh sách sự cố
   pastIncidents: Sự cố đã xảy ra
   pastIncidentsResolved: Sự cố khắc phục trong $MINUTES phút với $POSTS cập nhật
-  liveStatus: Trạng thái hiện tại
   overallUptime: "Tỷ lệ phản hồi thành công: $UPTIME"
   overallUptimeTitle: Tỷ lệ phản hồi thành công
   averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
   averageResponseTimeTitle: Thời gian phản hồi trung bình
   sevelDayResponseTime: Thời gian phản hồi 7 ngày gần nhất
   responseTimeMs: Thời gian phản hồi (ms)
-  up: Hoạt động
-  down: Không hoạt động
-  degraded: Gián đoạn
-  ms: ms
   loading: Đang tải...
   navGitHub: GitHub
   navHome: Trang chủ
@@ -90,6 +81,32 @@ i18n:
   duration30D: 30 ngày
   duration1Y: 1 năm
   durationAll: Tất cả
+  url: "Đường dẫn"
+  status: "Trạng thái"
+  history: "Lịch sử"
+  responseTime: "Thời gian phản hồi"
+  uptime: "Tỷ lệ phản hồi"
+  up: "🟩 Hoạt động"
+  degraded: "🟨 Gián đoạn"
+  down: "🟥 Không hoạt động"
+  responseTimeGraphAlt: "Đồ thị thời gian phản hồi"
+  ms: "ms"
+  responseTime: "Thời gian phản hồi"
+  responseTimeDay: "Thời gian phản hồi (24 giờ)"
+  responseTimeWeek: "Thời gian phản hồi (1 tuần)"
+  responseTimeMonth: "Thời gian phản hồi (1 tháng)"
+  responseTimeYear: "Thời gian phản hồi (1 năm)"
+  uptime: "Tỷ lệ phản hồi (toàn bộ)"
+  uptimeDay: "Tỷ lệ phản hồi (24 giờ)"
+  uptimeWeek: "Tỷ lệ phản hồi (1 tuần)"
+  uptimeMonth: "Tỷ lệ phản hồi (1 tháng)"
+  uptimeYear: "Tỷ lệ phản hồi (1 năm)"
+  liveStatus: "Trạng thái hiện tại"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Hệ thống hoạt động bình thường"
+  degradedPerformance: "🟨 Hệ thống gián đoạn"
+  completeOutage: "🟥 Hệ thống gặp sự cố hoàn toàn"
+  partialOutage: "🟧 Hệ thống gặp sự cố một phần"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
